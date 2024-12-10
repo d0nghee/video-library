@@ -1,4 +1,4 @@
-# study
+# Video
 
 ## Project setup
 ```
